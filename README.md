@@ -1,4 +1,4 @@
-There are 2 files in this folder : Hangman.pl and README.txt.
+There are 2 files : Hangman.pl and README.md
 
 You can run the program using the command perl Hangman.pl in the terminal.
 
